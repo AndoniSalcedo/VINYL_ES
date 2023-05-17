@@ -1,13 +1,13 @@
 {
-  "main.css": "/VINYL_ES/static/css/main.3a0912ab.chunk.css",
-  "main.js": "/VINYL_ES/static/js/main.9e8482fb.chunk.js",
-  "main.js.map": "/VINYL_ES/static/js/main.9e8482fb.chunk.js.map",
+  "main.css": "/VINYL_ES/static/css/main.16ceffdb.chunk.css",
+  "main.js": "/VINYL_ES/static/js/main.312cb214.chunk.js",
+  "main.js.map": "/VINYL_ES/static/js/main.312cb214.chunk.js.map",
   "runtime~main.js": "/VINYL_ES/static/js/runtime~main.7b74fb50.js",
   "runtime~main.js.map": "/VINYL_ES/static/js/runtime~main.7b74fb50.js.map",
-  "static/js/2.a4dff8b7.chunk.js": "/VINYL_ES/static/js/2.a4dff8b7.chunk.js",
-  "static/js/2.a4dff8b7.chunk.js.map": "/VINYL_ES/static/js/2.a4dff8b7.chunk.js.map",
+  "static/js/2.44884f44.chunk.js": "/VINYL_ES/static/js/2.44884f44.chunk.js",
+  "static/js/2.44884f44.chunk.js.map": "/VINYL_ES/static/js/2.44884f44.chunk.js.map",
   "index.html": "/VINYL_ES/index.html",
-  "precache-manifest.6b2a3727adf5a109cf2ad1d6a0718b6c.js": "/VINYL_ES/precache-manifest.6b2a3727adf5a109cf2ad1d6a0718b6c.js",
+  "precache-manifest.dfdba56b5d9ec65c6896938cc72a5781.js": "/VINYL_ES/precache-manifest.dfdba56b5d9ec65c6896938cc72a5781.js",
   "service-worker.js": "/VINYL_ES/service-worker.js",
-  "static/css/main.3a0912ab.chunk.css.map": "/VINYL_ES/static/css/main.3a0912ab.chunk.css.map"
+  "static/css/main.16ceffdb.chunk.css.map": "/VINYL_ES/static/css/main.16ceffdb.chunk.css.map"
 }
