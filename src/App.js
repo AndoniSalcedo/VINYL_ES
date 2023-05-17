@@ -8,7 +8,7 @@ const App = () => {
 	return (
 		<div className="app">
 			<div className="header">
-				<img src="images/disco.png" alt="Logotipo" className="logo" />
+				<img src="logo.png" alt="Logotipo" className="logo" />
 				<h1 className="title">VINYL_ES</h1>
 				<div className="icons">
 					<a

@@ -223,6 +223,7 @@ const DiscosList = () => {
 
 	const handlePageChange = ({ selected }) => {
 		setCurrentPage(selected);
+		window.scrollTo(0, 0);
 	};
 
 	return (
