@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AndoniSalcedo/VINYL_ES/precache-manifest.fddb6f122c8567b2515b03003247a595.js"
+  "/VINYL_ES/precache-manifest.063048a8639edb4a1ee349115347139d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/AndoniSalcedo/VINYL_ES/index.html", {
+workbox.routing.registerNavigationRoute("/VINYL_ES/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

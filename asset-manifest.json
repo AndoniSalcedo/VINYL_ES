@@ -1,13 +1,13 @@
 {
-  "main.css": "/AndoniSalcedo/VINYL_ES/static/css/main.809d043a.chunk.css",
-  "main.js": "/AndoniSalcedo/VINYL_ES/static/js/main.a57243a6.chunk.js",
-  "main.js.map": "/AndoniSalcedo/VINYL_ES/static/js/main.a57243a6.chunk.js.map",
-  "static/js/1.8dc94a97.chunk.js": "/AndoniSalcedo/VINYL_ES/static/js/1.8dc94a97.chunk.js",
-  "static/js/1.8dc94a97.chunk.js.map": "/AndoniSalcedo/VINYL_ES/static/js/1.8dc94a97.chunk.js.map",
-  "runtime~main.js": "/AndoniSalcedo/VINYL_ES/static/js/runtime~main.441c30f5.js",
-  "runtime~main.js.map": "/AndoniSalcedo/VINYL_ES/static/js/runtime~main.441c30f5.js.map",
-  "static/css/main.809d043a.chunk.css.map": "/AndoniSalcedo/VINYL_ES/static/css/main.809d043a.chunk.css.map",
-  "index.html": "/AndoniSalcedo/VINYL_ES/index.html",
-  "precache-manifest.fddb6f122c8567b2515b03003247a595.js": "/AndoniSalcedo/VINYL_ES/precache-manifest.fddb6f122c8567b2515b03003247a595.js",
-  "service-worker.js": "/AndoniSalcedo/VINYL_ES/service-worker.js"
+  "main.css": "/VINYL_ES/static/css/main.809d043a.chunk.css",
+  "main.js": "/VINYL_ES/static/js/main.a57243a6.chunk.js",
+  "main.js.map": "/VINYL_ES/static/js/main.a57243a6.chunk.js.map",
+  "static/js/1.8dc94a97.chunk.js": "/VINYL_ES/static/js/1.8dc94a97.chunk.js",
+  "static/js/1.8dc94a97.chunk.js.map": "/VINYL_ES/static/js/1.8dc94a97.chunk.js.map",
+  "runtime~main.js": "/VINYL_ES/static/js/runtime~main.644aa29c.js",
+  "runtime~main.js.map": "/VINYL_ES/static/js/runtime~main.644aa29c.js.map",
+  "static/css/main.809d043a.chunk.css.map": "/VINYL_ES/static/css/main.809d043a.chunk.css.map",
+  "index.html": "/VINYL_ES/index.html",
+  "precache-manifest.063048a8639edb4a1ee349115347139d.js": "/VINYL_ES/precache-manifest.063048a8639edb4a1ee349115347139d.js",
+  "service-worker.js": "/VINYL_ES/service-worker.js"
 }
