@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "97f61f0970a72aa15edb",
-    "url": "/VINYL_ES/static/css/main.16ceffdb.chunk.css"
+    "revision": "55714fb0c3b8efc069be",
+    "url": "/VINYL_ES/static/css/main.a498db08.chunk.css"
   },
   {
-    "revision": "97f61f0970a72aa15edb",
-    "url": "/VINYL_ES/static/js/main.312cb214.chunk.js"
+    "revision": "55714fb0c3b8efc069be",
+    "url": "/VINYL_ES/static/js/main.05cc97b8.chunk.js"
   },
   {
     "revision": "f4e3d65564c8c99d84c5",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/VINYL_ES/static/js/2.44884f44.chunk.js"
   },
   {
-    "revision": "b2c74182df6be437cb3ee032c3db5025",
+    "revision": "746519957e429836ff73939582a2067c",
     "url": "/VINYL_ES/index.html"
   }
 ];
