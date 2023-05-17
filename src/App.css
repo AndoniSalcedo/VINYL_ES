@@ -104,9 +104,17 @@ body {
 }
 
 .icon {
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
   margin: 15px 10px;
+  color: #fff;
+}
+
+.icon2 {
+  width: 55px;
+  height: 55px;
+  margin: 15px 10px;
+  color: #fff;
 }
 
 .subtitle {

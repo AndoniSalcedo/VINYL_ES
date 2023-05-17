@@ -1,6 +1,8 @@
 import React from "react";
 import DiscosList from "./DiscosList";
 import "./App.css";
+import { FaInstagram } from "react-icons/fa";
+import { HiOutlineMail } from "react-icons/hi";
 
 const App = () => {
 	return (
@@ -10,27 +12,19 @@ const App = () => {
 				<h1 className="title">VINYL_ES</h1>
 				<div className="icons">
 					<a
-						href="enlace-a-instagram"
+						href="https://instagram.com/vinyl_es"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
-						<img
-							src="./images/disco.png"
-							alt="Instagram"
-							className="icon"
-						/>
+						<FaInstagram className="icon" />
 					</a>
 
 					<a
-						href="enlace-a-correo-electronico"
+						href="mailto:vinyles2000@gmail.com"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
-						<img
-							src="./images/disco.png"
-							alt="Correo electrónico"
-							className="icon"
-						/>
+						<HiOutlineMail className="icon2" />
 					</a>
 				</div>
 			</div>

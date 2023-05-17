@@ -226,18 +226,20 @@ const DiscosList = () => {
 	};
 
 	return (
-		<div className="discos-list">
-			{currentDiscos.map((disco, index) => (
-				<Disco
-					key={index}
-					name={disco.name}
-					singer={disco.singer}
-					price={disco.price}
-					image={disco.image}
-				/>
-			))}
+		<>
+			<div className="discos-list">
+				{currentDiscos.map((disco, index) => (
+					<Disco
+						key={index}
+						name={disco.name}
+						singer={disco.singer}
+						price={disco.price}
+						image={disco.image}
+					/>
+				))}
 
-			<br />
+				<br />
+			</div>
 
 			<ReactPaginate
 				previousLabel={"Anterior"}
@@ -252,7 +254,7 @@ const DiscosList = () => {
 				subContainerClassName={"pages pagination"}
 				activeClassName={"active"}
 			/>
-		</div>
+		</>
 	);
 };
 
