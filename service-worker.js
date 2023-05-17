@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AndoniSalcedo/VINYL_ES/precache-manifest.db52b7dee0a2c2d3cb9107ae705d9751.js"
+  "/AndoniSalcedo/VINYL_ES/precache-manifest.fddb6f122c8567b2515b03003247a595.js"
 );
 
 workbox.clientsClaim();
